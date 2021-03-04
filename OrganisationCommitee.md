@@ -1,30 +1,31 @@
-# Co-Chairs:
+## Co-Chairs:
 
 - Marton Karsai (CEU, Vienna)
 - Pierre Borgnat (CNRS, ENS de Lyon)
 
-# Advisor:
+## Advisor:
 
 - Alain Barrat (CNRS, Aix-Marseille Université)
 
-# Web, Design and Hybrid Co-Chairs:
+## Web, Design and Hybrid Co-Chairs:
 
 - Rémy Cazabet (Université Lyon 1)
 - (tba)
 
-# Program Committee Co-Chairs:
+## Program Committee Co-Chairs:
 
 - Vittorio Loretto
 - (tba)
 
-# Satellite Co-Chairs:
+## Satellite Co-Chairs:
 
 - Chiara Poletto
 - Nicolas Perra
 
-# Poste Co-Chairs:
+## Poste Co-Chairs:
 
 - (tba)
 
 
-# Local Organization Committee:
+## Local Organization Committee:
+- (tba)
