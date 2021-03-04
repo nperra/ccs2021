@@ -25,5 +25,6 @@
 # Poste Co-Chairs:
 
 - (tba)
-- 
+
+
 # Local Organization Committee:
