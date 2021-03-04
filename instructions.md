@@ -1,4 +1,4 @@
-## Oral Presentations (12'+3')
+# Oral Presentations (12'+3')
 
 Talks for the parallel sessions will last 15 minutes total (12 min presentation+ 3 minutes for questions. There are two options for these talks:
 
@@ -10,7 +10,7 @@ The pre-recorded option has many advantages: it minimizes connection problems, a
 
 If you choose the pre-recorded option, please prepare a 12 min. video with your recorded contribution. Please, do not send it to us. You will plan to show it yourself by "share screen" at the exact time of your presentation.
 
-## Poster Presentations
+# Poster Presentations
 
 A CCS2020 virtual poster shall consist of the following elements:
 - The usual PDF of the poster
