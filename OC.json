@@ -38,5 +38,45 @@
       "website":""
       }
     ]
+  },
+  {"category":"Program Committee Co-Chairs",
+    "people":[{
+      "name":"Vittorio Loretto",
+      "affiliation":"Sapienza University of Rome",
+      "pic":"http://socialdynamics.it/vittorioloreto/wp-content/uploads/2017/03/vittorio_satin_bn.png",
+      "website":"http://socialdynamics.it/vittorioloreto/",
+      "twitter":""
+      },{
+      "name":"TBA",
+      "affiliation":"-",
+      "pic":"",
+      "website":""
+      },
+   {"category":"Satellite Co-Chairs",
+    "people":[{
+      "name":"Chiara Poletto",
+      "affiliation":"iPLESP, INSERM & UPMC",
+      "pic":"https://chiara-poletto.github.io/images/chpoletto.png",
+      "website":"https://chiara-poletto.github.io",
+      "twitter":"https://twitter.com/chpoletto"
+      },{
+      "name":"Nicolas Perra",
+      "affiliation":"Greenwich University",
+      "pic":"http://www.nicolaperra.com/uploads/9/0/8/3/9083653/3157704.jpg",
+      "website":"http://www.nicolaperra.com"
+      },{"category":"Poster Co-Chairs:",
+    "people":[{
+      "name":"TBA",
+      "affiliation":"",
+      "pic":"",
+      "website":"",
+      "twitter":""
+      },{
+      "name":"TBA",
+      "affiliation":"",
+      "pic":"",
+      "website":""
+      }
+    ]
   }
 ]
