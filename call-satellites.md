@@ -7,3 +7,7 @@ Satellite organizers are responsible for promoting, organizing, reviewing, and s
 ## Important dates
 
 TBA
+
+## Submission
+
+TBA
