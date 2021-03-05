@@ -1,42 +1,49 @@
 [
-  {"category":"TBA:",
-   "people":[
-    {
-      "name":"TBA",
-      "affiliation":"-",
-      "pic":"",
-      "website":"",
-      "twitter":""
-    },{
-      "name":"TBA",
-      "affiliation":"-",
-      "pic":"",
-      "website":"",
-      "twitter":""
-    },{
-      "name":"TBA",
-      "affiliation":"-",
-      "pic":"",
-      "website":"",
-      "twitter":""
-    },{
-      "name":"TBA",
-      "affiliation":"-",
-      "pic":"",
-      "website":"",
-      "twitter":""
-    },{
-      "name":"TBA",
-      "affiliation":"-",
-      "pic":"",
-      "website":"",
-      "twitter":""
-    },{
-      "name":"TBA",
-      "affiliation":"-",
-      "pic":"",
-      "website":"",
-      "twitter":""
-    }]
+  {
+    "category": "TBA:",
+    "people": [
+      {
+        "name": "TBA",
+        "affiliation": "-",
+        "pic": "",
+        "website": "",
+        "twitter": ""
+      },
+      {
+        "name": "TBA",
+        "affiliation": "-",
+        "pic": "",
+        "website": "",
+        "twitter": ""
+      },
+      {
+        "name": "TBA",
+        "affiliation": "-",
+        "pic": "",
+        "website": "",
+        "twitter": ""
+      },
+      {
+        "name": "TBA",
+        "affiliation": "-",
+        "pic": "",
+        "website": "",
+        "twitter": ""
+      },
+      {
+        "name": "TBA",
+        "affiliation": "-",
+        "pic": "",
+        "website": "",
+        "twitter": ""
+      },
+      {
+        "name": "TBA",
+        "affiliation": "-",
+        "pic": "",
+        "website": "",
+        "twitter": ""
+      }
+    ]
   }
 ]
