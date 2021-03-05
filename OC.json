@@ -28,8 +28,9 @@
     "people":[{
       "name":"Rémy Cazabet",
       "affiliation":"Lyon 1 University",
-      "pic":"",
-      "website":""
+      "pic":"http://cazabetremy.fr/pics/remySmall.jpg",
+      "website":"http://cazabetremy.fr",
+      "twitter":"https://twitter.com/Yquetzal"
       },{
       "name":"TBA",
       "affiliation":"-",
