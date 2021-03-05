@@ -1,5 +1,6 @@
 [
-  {"Co-Chairs":
+  {"category":"Co-Chairs",
+   "people":
     {
       "name":"Pierre Borgnat",
       "affiliation":"CNRS, ENS de Lyon",
@@ -14,16 +15,16 @@
       "twitter":"https://twitter.com/MartonKarsai"
     }
   },
-  {"Advisor":
-    {
+  {"category":"Advisor",
+    "people":{
       "name":"Alain Barrat",
       "affiliation":"CNRS, Aix-Marseille Université",
       "pic":"",
       "website":"",
     }
   },
-  {"Web, Design and Hybrid Co-Chairs":
-    {
+  {"category":"Web, Design and Hybrid Co-Chairs",
+    "people":{
       "name":"Rémy Cazabet",
       "affiliation":"Lyon 1 University",
       "pic":"",
