@@ -13,5 +13,29 @@
       "website":"https://www.martonkarsai.com",
       "twitter":"https://twitter.com/MartonKarsai"
     }]
+  },
+  {"category":"Advisor",
+    "people":[
+      {
+      "name":"Alain Barrat",
+      "affiliation":"CNRS, Aix-Marseille Université",
+      "pic":"",
+      "website":""
+      }
+    ]
+  },
+  {"category":"Web, Design and Hybrid Co-Chairs",
+    "people":[{
+      "name":"Rémy Cazabet",
+      "affiliation":"Lyon 1 University",
+      "pic":"",
+      "website":""
+      },{
+      "name":"TBA",
+      "affiliation":"-",
+      "pic":"",
+      "website":""
+      }
+    ]
   }
 ]
