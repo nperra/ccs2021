@@ -1,87 +1,102 @@
 [
-  {"category":"Co-Chairs",
-   "people":[
-    {
-      "name":"Pierre Borgnat",
-      "affiliation":"CNRS, ENS de Lyon",
-      "pic":"https://perso.ens-lyon.fr/pierre.borgnat/Autres/PierreBorgnat.jpg",
-      "website":"https://perso.ens-lyon.fr/pierre.borgnat/"
-    },{
-      "name":"Márton Karsai",
-      "affiliation":"CEU, Vienna",
-      "pic":"people-pics/marton.jpg",
-      "website":"https://www.martonkarsai.com",
-      "twitter":"https://twitter.com/MartonKarsai"
-    }]
-  },
-  {"category":"Advisor",
-    "people":[
+  {
+    "category": "Co-Chairs",
+    "people": [
       {
-      "name":"Alain Barrat",
-      "affiliation":"CNRS, Aix-Marseille Université",
-      "pic":"http://www.cpt.univ-mrs.fr/~barrat/alain_Imera.jpg",
-      "website":"http://www.cpt.univ-mrs.fr/~barrat/"
+        "name": "Pierre Borgnat",
+        "affiliation": "CNRS, ENS de Lyon",
+        "pic": "https://perso.ens-lyon.fr/pierre.borgnat/Autres/PierreBorgnat.jpg",
+        "website": "https://perso.ens-lyon.fr/pierre.borgnat/"
+      },
+      {
+        "name": "Márton Karsai",
+        "affiliation": "CEU, Vienna",
+        "pic": "people-pics/marton.jpg",
+        "website": "https://www.martonkarsai.com",
+        "twitter": "https://twitter.com/MartonKarsai"
       }
     ]
   },
-  {"category":"Web, Design and Hybrid Co-Chairs",
-    "people":[{
-      "name":"Rémy Cazabet",
-      "affiliation":"Lyon 1 University",
-      "pic":"http://cazabetremy.fr/pics/remySmall.jpg",
-      "website":"http://cazabetremy.fr",
-      "twitter":"https://twitter.com/Yquetzal"
-      },{
-      "name":"TBA",
-      "affiliation":"-",
-      "pic":"",
-      "website":""
+  {
+    "category": "Advisor",
+    "people": [
+      {
+        "name": "Alain Barrat",
+        "affiliation": "CNRS, Aix-Marseille Université",
+        "pic": "http://www.cpt.univ-mrs.fr/~barrat/alain_Imera.jpg",
+        "website": "http://www.cpt.univ-mrs.fr/~barrat/"
       }
     ]
   },
-  {"category":"Program Committee Co-Chairs",
-    "people":[
+  {
+    "category": "Web, Design and Hybrid Co-Chairs",
+    "people": [
       {
-      "name":"Vittorio Loretto",
-      "affiliation":"Sapienza University of Rome",
-      "pic":"http://socialdynamics.it/vittorioloreto/wp-content/uploads/2017/03/vittorio_satin_bn.png",
-      "website":"http://socialdynamics.it/vittorioloreto/",
-      "twitter":""
-      },{
-      "name":"TBA",
-      "affiliation":"-",
-      "pic":"",
-      "website":""
-      }]},
-   {"category":"Satellite Co-Chairs",
-    "people":[
+        "name": "Rémy Cazabet",
+        "affiliation": "Lyon 1 University",
+        "pic": "http://cazabetremy.fr/pics/remySmall.jpg",
+        "website": "http://cazabetremy.fr",
+        "twitter": "https://twitter.com/Yquetzal"
+      },
       {
-      "name":"Chiara Poletto",
-      "affiliation":"iPLESP, INSERM & UPMC",
-      "pic":"https://chiara-poletto.github.io/images/chpoletto.png",
-      "website":"https://chiara-poletto.github.io",
-      "twitter":"https://twitter.com/chpoletto"
-      },{
-      "name":"Nicolas Perra",
-      "affiliation":"Greenwich University",
-      "pic":"http://www.nicolaperra.com/uploads/9/0/8/3/9083653/3157704.jpg",
-      "website":"http://www.nicolaperra.com"
+        "name": "TBA",
+        "affiliation": "-",
+        "pic": "",
+        "website": ""
       }
-     ]
-   },
-   {"category":"Poster Co-Chairs",
-    "people":[
+    ]
+  },
+  {
+    "category": "Program Committee Co-Chairs",
+    "people": [
       {
-      "name":"TBA",
-      "affiliation":"-",
-      "pic":"",
-      "website":"",
-      "twitter":""
-      },{
-      "name":"TBA",
-      "affiliation":"-",
-      "pic":"",
-      "website":""
+        "name": "Vittorio Loretto",
+        "affiliation": "Sapienza University of Rome",
+        "pic": "http://socialdynamics.it/vittorioloreto/wp-content/uploads/2017/03/vittorio_satin_bn.png",
+        "website": "http://socialdynamics.it/vittorioloreto/",
+        "twitter": ""
+      },
+      {
+        "name": "TBA",
+        "affiliation": "-",
+        "pic": "",
+        "website": ""
+      }
+    ]
+  },
+  {
+    "category": "Satellite Co-Chairs",
+    "people": [
+      {
+        "name": "Chiara Poletto",
+        "affiliation": "iPLESP, INSERM & UPMC",
+        "pic": "https://chiara-poletto.github.io/images/chpoletto.png",
+        "website": "https://chiara-poletto.github.io",
+        "twitter": "https://twitter.com/chpoletto"
+      },
+      {
+        "name": "Nicolas Perra",
+        "affiliation": "Greenwich University",
+        "pic": "http://www.nicolaperra.com/uploads/9/0/8/3/9083653/3157704.jpg",
+        "website": "http://www.nicolaperra.com"
+      }
+    ]
+  },
+  {
+    "category": "Poster Co-Chairs",
+    "people": [
+      {
+        "name": "TBA",
+        "affiliation": "-",
+        "pic": "",
+        "website": "",
+        "twitter": ""
+      },
+      {
+        "name": "TBA",
+        "affiliation": "-",
+        "pic": "",
+        "website": ""
       }
     ]
   }
