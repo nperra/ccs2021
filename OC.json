@@ -1,34 +1,36 @@
 [
   {"category":"Co-Chairs",
-   "people":
+   "people":[
     {
       "name":"Pierre Borgnat",
       "affiliation":"CNRS, ENS de Lyon",
       "pic":"",
-      "website":"",
+      "website":""
     },{
       "name":"Márton Karsai",
-         "affiliation":"CEU, Vienna",
-
+      "affiliation":"CEU, Vienna",
       "pic":"https://lh3.googleusercontent.com/XnJjhtoT3VrGONsOM8jyyLdeIXvqcDhEf_PQY14zheJbbwpb6u77P5rm_n-cn3VrqNYBBbRwVPRAkO843RzMy9muIQG_wLOeLRh9vX0EwRR5GDAMomRL3Fv_3wYRtIAcSw=w1280",
       "website":"https://www.martonkarsai.com",
       "twitter":"https://twitter.com/MartonKarsai"
-    }
+    }]
   },
   {"category":"Advisor",
-    "people":{
+    "people":[
+      {
       "name":"Alain Barrat",
       "affiliation":"CNRS, Aix-Marseille Université",
       "pic":"",
-      "website":"",
-    }
+      "website":""
+      }
+    ]
   },
   {"category":"Web, Design and Hybrid Co-Chairs",
-    "people":{
+    "people":[{
       "name":"Rémy Cazabet",
       "affiliation":"Lyon 1 University",
       "pic":"",
-      "website":"",
-    }
+      "website":""
+      }
+    ]
   }
 ]
