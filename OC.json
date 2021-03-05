@@ -4,8 +4,8 @@
     {
       "name":"Pierre Borgnat",
       "affiliation":"CNRS, ENS de Lyon",
-      "pic":"",
-      "website":""
+      "pic":"https://perso.ens-lyon.fr/pierre.borgnat/Autres/PierreBorgnat.jpg",
+      "website":"https://perso.ens-lyon.fr/pierre.borgnat/"
     },{
       "name":"Márton Karsai",
       "affiliation":"CEU, Vienna",
@@ -19,8 +19,8 @@
       {
       "name":"Alain Barrat",
       "affiliation":"CNRS, Aix-Marseille Université",
-      "pic":"",
-      "website":""
+      "pic":"http://www.cpt.univ-mrs.fr/~barrat/alain_Imera.jpg",
+      "website":"http://www.cpt.univ-mrs.fr/~barrat/"
       }
     ]
   },
