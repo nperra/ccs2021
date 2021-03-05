@@ -4,10 +4,10 @@ As usual with the Conferences on Complex Systems, apart form the main tracks of 
 
 Satellite organizers are responsible for promoting, organizing, reviewing, and scheduling their session.
 
-## Important dates
+## Important Dates
 
 TBA
 
-## Submission
+## Submission Page
 
 TBA
