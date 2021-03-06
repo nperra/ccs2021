@@ -30,4 +30,7 @@ If you're not familiar with .json, feel free to ask the web chair. The best to c
 - `[]` corresponds to ordered list of elements
 - `{}`corresponds to dictionaries, i.e. `{"name":"remy"}` means that the name of the person is `remy`.
 
-If you're afraid of doing mistake, you can use an online json editor such as: https://jsoneditoronline.org/#left=local.voluto&right=local.rosuwe . Paste the file content on the right, see it as a strcutured tree on the right. Edit fields or add elements with the visual interface, convert back to json, and copy paste the whole page back to the file here.
+If you're afraid of doing mistakes, you can use an online json editor such as: https://jsoneditoronline.org/#left=local.voluto&right=local.rosuwe . Paste the file content on the right, see it as a strcutured tree on the right. Edit fields or add elements with the visual interface, convert back to json, and copy paste the whole page back to the file here.
+
+## See changes
+It ususally takes a few seconds for the change to be visible on the website. Sometimes, a version cached by your browser forbid you to see the changes (but other users see it), in that case try to do a full reload of the page, usually `ctrl`+`maj`+`R`
