@@ -1,7 +1,5 @@
 # Call for Abstracts
-ccs2020 is the flagship conference on Complex Systems promoted by the CSS. It brings under one umbrella a wide variety of leading researchers, practitioners and stakeholders with a direct interest in Complex Systems, from Physics to Computer Science, Biology, Social Sciences, Economics, and Technological and Communication Networks, among others.
-
-We are looking forward to seeing the best of your new insights in Complex Systems at the Conference on Complex Systems 2020, to be held from 7 to 12 December 2020.
+CCS2018 is the flagship conference on Complex Systems promoted by the CSS. It brings under one umbrella a wide variety of leading researchers, practitioners and stakeholders with a direct interest in Complex Systems, from Physics to Computer Science, Biology, Social Sciences, Economics, and Technological and Communication Networks, among others.
 
 Topics covered by the Conference include, but are not limited to:
 
@@ -19,11 +17,6 @@ Topics covered by the Conference include, but are not limited to:
 10. Methodologies (methodological challenges, methods, innovations)
 11. Inter/Transdisciplinarity, applied research and calls for collaboration (‘real-world’ interventions; applied research; project proposals) 12. Any other topic in Complex Systems
 
- 
-
- 
-
-We invite you to submit a one-page abstract until the 10th 12th of October 2020, via our EasyChair submission link: EasyChair
 
  
 
@@ -31,45 +24,38 @@ We invite you to submit a one-page abstract until the 10th 12th of October 2020,
 
 Easychair will be used for all procedures
 
-Log in to easychair.org using an existing account.
-If you do not have an account, you can easily sign up.
-Click on the submission link (see below).
-Log in to the conference as an author, and proceed with uploading your abstract at the top left corner by clicking “New Submission”
-Follow the instructions easy chair provides you and fill in all the necessary details.
-Submit.
-Submission link: https://easychair.org/conferences/?conf=complex20
+1. Log in to easychair.org using an existing account.
+2. If you do not have an account, you can easily sign up.
+3. Click on the submission link.
+4. Log in to the conference as an author, and proceed with uploading your paper at the top left corner by clicking “New Submission”
+5. Follow the instructions easy chair provides you and fill in all the necessary details.
+6. Submit.
 
-You can download the abstract template from here: Template
+ Submission link: https://easychair.org/conferences/?conf=complex2021
+
+You can download the abstract template from here: http://ccs2018.web.auth.gr/sites/default/files/attached%20files/templateccs2018.docx
 
 We accept contributed talks (regular and lightning talks) and posters. Please indicate your preference for one of the following categories to present your research:
 
-Regular talk
-Poster submission
-Lightning talk
-Oral Presentations
-The allocated time for each oral presentations is 15  minutes, which total time for presentation +questions (12 min + 3 min). There is a tight schedule and it is important that each presenter stay within this time limit. When the alloted time comes, be prepared to share your screen
+- Regular talk
+- Poster submission
+- Lightning talk
 
-Poster Presentations
-...
 
-Lightning (Ignite) presentations
-...
+### Oral Presentations
+The allocated time for each oral presentations is 15  minutes, which total time for presentation +questions (12 min + 3 min). There is a tight schedule and it is important that each presenter stay within this time limit. Presenters will have access to a laptop with LCD projector and a laser pointer. Please, bring your presentation to the meeting on a USB flash drive to load on the in-room laptops. You should load your presentation on one of the conference laptops before the first session, during the coffee breaks, or during lunch preceding your presentation. A support staff member will be in each room to assist with the loading.
 
- 
+### Poster Presentations
+For each poster, display boards will be allocated. The poster area will open 30 minutes before each poster session begins each day. It is advisable to hang the posters sometime before 9:00 a.m. the day of the respective session. Posters will need to be taken down by the end of the day of each session. Presenters will be required to be next to their posters during specific time slots. Poster dimensions: A0 size (841 x 1189 mm or 33.1 x 46.8 in). Maximum stand area: 1200x1200 mm.
 
-## Important dates:
+### Lightning (Ignite) presentations
+A few oral talks will be presented in the “ignite” mode. Such talks should present a single, new, key idea of the problem at hand, rather than give complete and detailed results of a research project. Thus, the allocated time will be 4 minutes. No questions/answers will be allowed. Each ignite talk should have no more than 4 slides.  All presentations should be loaded to the room laptop before the beginning of the session. Please see the support staff member of the room to assist you with the loading.
 
-    Deadline for abstract submission: 10 12 October 2020
 
-    Notification to authors: 2 9 November 2020.
+# Important dates:
 
-    Dates of the Conference: 7-11 December 2020.
-
-    Date of satellite meetings: 9 December 2020.
- 
- 
-
- 
-
-If you have any questions, please do not hesitate to contact us: 
+- Deadline for abstract submission: TBA
+- Notification to authors: TBA
+- Dates of the Conference: 25-29 October 2021
+- Date of satellite meetings: TBA
 
