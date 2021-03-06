@@ -7,7 +7,7 @@ To edit those pages, you need a GitHub account.
 
 If you're a validated CCS2021 Organisation Committee member, any change you make is immediately visible on the website. If not, you need to make a _pull request_, and an authorised member must validate it to appear on the website.
 
-To edit a page, just clic the edit button (pencil) on the top-right corner. When you're finished, push the green button at the bottom. You can optionnally describe your change. All the history of changes is available, so we can revert to older version in case of a mistake.
+To edit a page, just clic the edit button (pencil) on the top-right corner. When you're finished, push the green button at the bottom. You can optionnally describe your change. All the history of changes is available, so we can revert to an older version in case of a mistake.
 
 ## There are two types of pages:
 
