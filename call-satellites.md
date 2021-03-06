@@ -15,7 +15,8 @@ research project, and as such if there is some available funding to partially co
 – Deadline for Proposals: TBA
 – Notification of Acceptance: TBA
 
-## Information Concerning the Satellite Meetings:
+## Information Concerning the Satellite Meetings
+
 – Dates of the Satellite Symposia: TBA
 – Location: Conference venue
 – Lecture halls will be provided free of charge, and audio-visual equipment for projections will be
@@ -23,6 +24,7 @@ available.
 – Satellite participants will have to register following the procedure described in the conference web
 site. Participants who only wish to participate to the satellite and do not wish to attend the main
 conference will have the option to register only for a single day.
+
 - Food/drinks and coffee breaks will be provided.
 - All satellite symposia will be listed in the CCS2018 Booklet as well as linked and advertised on the
 conference Website.
