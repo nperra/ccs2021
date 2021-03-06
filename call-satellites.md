@@ -27,11 +27,11 @@ conference will have the option to register only for a single day.
 - Food/drinks and coffee breaks will be provided.
 - All satellite symposia will be listed in the CCS2018 Booklet as well as linked and advertised on the
 conference Website.
-– Selection of Satellite Meeting Proposals will be performed by the Scientific Committee of
+- Selection of Satellite Meeting Proposals will be performed by the Scientific Committee of
 CCS2021. In order to optimize the offer of Satellite Symposia in terms of scientific topics, visibility
 and interactions, the Scientific Committee will reserve the option to propose the merging of selected
 proposals focusing on similar topics.
-– A rule of no-repetition of the same talk across different satellites and main conference will be
+- A rule of no-repetition of the same talk across different satellites and main conference will be
 enforced.
-– One free registration will be awarded to each satellite meeting. The satellite organizers can use it
+- One free registration will be awarded to each satellite meeting. The satellite organizers can use it
 in any way they prefer (to use it for themselves, split it, or award it to an invited speaker).
