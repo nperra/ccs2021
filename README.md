@@ -1,5 +1,5 @@
 # ccs2021 website content
-The ccs2021 website content is created based on pages in this repository. 
+The ccs2021 website content is generated based on pages in this repository. 
 
 ## How to edit a page 
 
