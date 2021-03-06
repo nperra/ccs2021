@@ -24,6 +24,8 @@ The CCS2021 website recognizes three levels of titles:
 ## Some comments on .json files:
 
 If you're not familiar with .json, feel free to ask the web chair. The best to create a new entry is to copy-paste an existing one and to modify it. In summary:
+
 -`[]` corresponds to ordered list of elements
 -`{}`corresponds to dictionaries, i.e. `{"name":"remy"}` means that the name of the person is `remy`.
+
 If you're afraid of doing mistake, you can use an online json editor such as: https://jsoneditoronline.org/#left=local.voluto&right=local.rosuwe . Paste the file content on the right, see it as a strcutured tree on the right. Edit fields or add elements with the visual interface, convert back to json, and copy paste the whole page back to the file here.
