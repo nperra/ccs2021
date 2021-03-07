@@ -11,7 +11,7 @@ Topics covered by the Conference include, but are not limited to:
 4. Economics and Finance (game theory, stock market and crises)
 5. Infrastructure, Planning and Environment (critical infrastructures, urban planning, mobility, transport and energy, Smart Cities)
 6. Biological and (Bio)Medical Complexity (biological networks, systems biology, evolution, natural science, medicine and physiology; biological coordination dynamics; aging)
-7. Social complexity (Social networks, Social-ecological systems; global environmental change, green growth, sustainability and resilience, social groups; change processes; social evolution; self-organisation and democracy)
+7. Social complexity (Social networks, Social-ecological systems; Global environmental change, Green growth, Sustainability and resilience, Social groups; Change processes; Social evolution; Self-organisation and democracy)
 8. Complexity in Physics and Chemistry (Quantum Computation, Quantum Synchronization, Quantum Chaos, Random Matrix Theory)
 9. COVID-19 related Complex Systems
 10. Methodologies (methodological challenges, methods, innovations)
