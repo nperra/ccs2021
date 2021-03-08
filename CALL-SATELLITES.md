@@ -1,6 +1,6 @@
 # CCS2021 Call for Satellite Symposia:
 
-Following the successful tradition of previous venues, CCS2021 will host a number of stimulating Satellite Symposia, to complement the main Conference. The satellite events are shorter (one-day or half-day) meetings with a focus on a specialized topic. All subjects that are of interest to the Complex Systems Society are welcome.
+Following the successful tradition of previous editions, CCS2021 will host a number of stimulating Satellite Symposia, to complement the main Conference. The satellite events are shorter (one-day or half-day) meetings with a focus on a specialized topic. All subjects that are of interest to the Complex Systems Society are welcome.
 
 ## How to Submit Proposals:
 We invite you to submit a proposal for a satellite symposium including Title, Topic (brief summary of less than 1000 words) and Format (number of speakers, invited vs. contributed, number of participants, length, preliminary program), and a preliminary list of speakers (also indicating whether they have been contacted and/or whether they have accepted).
