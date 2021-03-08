@@ -2,6 +2,7 @@
 
 - Deadline for abstract submission: **May 20, 2021**
 - Notification to authors: **June 20, 2021**
+- Early Registration: **July 15, 2021**
 - Dates of the Conference:  **October 25-29, 2021**
  
 # Call for Abstracts
