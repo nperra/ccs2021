@@ -24,7 +24,8 @@
         "name": "Alain Barrat",
         "affiliation": "CNRS, Aix-Marseille Université",
         "pic": "http://www.cpt.univ-mrs.fr/~barrat/alain_Imera.jpg",
-        "website": "http://www.cpt.univ-mrs.fr/~barrat/"
+        "website": "http://www.cpt.univ-mrs.fr/~barrat/",
+         "twitter": "https://twitter.com/alainbarrat"
       }
     ]
   },
@@ -36,13 +37,14 @@
         "affiliation": "Sapienza University of Rome",
         "pic": "http://socialdynamics.it/vittorioloreto/wp-content/uploads/2017/03/vittorio_satin_bn.png",
         "website": "http://socialdynamics.it/vittorioloreto/",
-        "twitter": ""
+        "twitter": "https://twitter.com/loretoff"
       },
       {
-        "name": "TBA",
-        "affiliation": "-",
-        "pic": "",
-        "website": ""
+        "name": "Kristina Lerman",
+        "affiliation": "University of Southern California",
+        "pic": "https://www.isi.edu/integration/people/lerman/img/KLerman.jpg",
+        "website": "https://www.isi.edu/integration/people/lerman/",
+        "twitter":"https://twitter.com/KristinaLerman"
       }
     ]
   },
@@ -60,7 +62,8 @@
         "name": "Nicola Perra",
         "affiliation": "Greenwich University",
         "pic": "http://www.nicolaperra.com/uploads/9/0/8/3/9083653/3157704.jpg",
-        "website": "http://www.nicolaperra.com"
+        "website": "http://www.nicolaperra.com",
+        "twitter":"https://twitter.com/net_science"
       }
     ]
   },
