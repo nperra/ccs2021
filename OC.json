@@ -29,24 +29,6 @@
     ]
   },
   {
-    "category": "Web, Design and Hybrid Co-Chairs",
-    "people": [
-      {
-        "name": "Rémy Cazabet",
-        "affiliation": "Lyon 1 University",
-        "pic": "people-pics/remy.jpg",
-        "website": "http://cazabetremy.fr",
-        "twitter": "https://twitter.com/Yquetzal"
-      },
-      {
-        "name": "TBA",
-        "affiliation": "-",
-        "pic": "",
-        "website": ""
-      }
-    ]
-  },
-  {
     "category": "Program Committee Co-Chairs",
     "people": [
       {
@@ -91,6 +73,24 @@
         "pic": "",
         "website": "",
         "twitter": ""
+      },
+      {
+        "name": "TBA",
+        "affiliation": "-",
+        "pic": "",
+        "website": ""
+      }
+    ]
+  },
+    {
+    "category": "Web, Design and Hybrid Co-Chairs",
+    "people": [
+      {
+        "name": "Rémy Cazabet",
+        "affiliation": "Lyon 1 University",
+        "pic": "people-pics/remy.jpg",
+        "website": "http://cazabetremy.fr",
+        "twitter": "https://twitter.com/Yquetzal"
       },
       {
         "name": "TBA",
