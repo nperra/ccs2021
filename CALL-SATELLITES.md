@@ -1,6 +1,6 @@
 ## Important Dates:
-- Deadline for Proposals: April 10, 2021
-- Notification of Acceptance: End of April, 2021
+- Deadline for Proposals: **April 10, 2021**
+- Notification of Acceptance: **End of April, 2021**
 
 **Submit Proposals (single PDF File) by email to**: TBA
 
