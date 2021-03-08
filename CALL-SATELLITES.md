@@ -1,17 +1,22 @@
 # CCS2021 Call for Satellite Symposia:
 
+
+## Important Dates:
+- Deadline for Proposals: April 10, 2021
+- Notification of Acceptance: End of April, 2021
+
+**Submit Proposals (single PDF File) by email to**: TBA
+
+
 Following the successful tradition of previous editions, CCS2021 will host a number of stimulating Satellite Symposia, to complement the main Conference. The satellite events are shorter (one-day or half-day) meetings with a focus on a specialized topic. All subjects that are of interest to the Complex Systems Society are welcome.
 
 ## How to Submit Proposals:
-We invite you to submit a proposal for a satellite symposium including Title, Topic (brief summary of less than 1000 words) and Format (number of speakers, invited vs. contributed, number of participants, length, preliminary program), and a preliminary list of speakers (also indicating whether they have been contacted and/or whether they have accepted).
+We invite you to submit a proposal for a satellite symposium including Title, Topic (brief summary of one to two pages) and Format (number of speakers, invited vs. contributed, number of participants, length, preliminary program), and a preliminary list of speakers (also indicating whether they have been contacted and/or whether they have accepted).
 
 Please make sure to mention if the proposed satellite is part of the dissemination activity of a research project, and as such if there is some available funding to partially cover some costs.
 
 **Submit Proposals (single PDF File) by email to**: TBA
 
-# Important Dates:
-- Deadline for Proposals: TBA
-- Notification of Acceptance: TBA
 
 ## Information Concerning the Satellite Meetings
 
