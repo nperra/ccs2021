@@ -1,4 +1,13 @@
 # Call for Abstracts
+
+## Important dates:
+
+- Deadline for abstract submission: May 20
+- Notification to authors: June 20
+- Dates of the Conference:  October 25-29 2021
+- Date of satellite meetings: TBA
+
+
 CCS2021 is the flagship conference on Complex Systems promoted by the CSS. It brings under one umbrella a wide variety of leading researchers, practitioners and stakeholders with a direct interest in Complex Systems, from Physics to Computer Science, Biology, Social Sciences, Economics, and Technological and Communication Networks, among others.
 
 Topics covered by the Conference include, but are not limited to:
@@ -52,10 +61,5 @@ For each poster, display boards will be allocated. The poster area will open 30 
 A few oral talks will be presented in the “ignite” mode. Such talks should present a single, new, key idea of the problem at hand, rather than give complete and detailed results of a research project. Thus, the allocated time will be 4 minutes. No questions/answers will be allowed. Each ignite talk should have no more than 4 slides.  All presentations should be loaded to the room laptop before the beginning of the session. Please see the support staff member of the room to assist you with the loading.
 
 
-# Important dates:
 
-- Deadline for abstract submission: TBA
-- Notification to authors: TBA
-- Dates of the Conference: 25-29 October 2021
-- Date of satellite meetings: TBA
 
