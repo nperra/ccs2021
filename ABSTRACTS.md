@@ -4,7 +4,7 @@
 - Notification to authors: **June 20, 2021**
 - Early Registration: **July 15, 2021**
 - Dates of the Conference:  **October 25-29, 2021**
-- Link to submit: TBA
+- Link to submit: Coming Soon
  
 # Call for Abstracts
 
