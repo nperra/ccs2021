@@ -1,7 +1,7 @@
 ## Important Dates:
 - Deadline for Proposals: **April 10, 2021**
 - Notification of Acceptance: **End of April, 2021**
-- Days of the Satellites: **28-29 October, 2021 (Wed.,Thu.)**
+- Days of the Satellites: **27-28 October, 2021 (Wed.,Thu.)**
 
 **Submit Proposals (single PDF File) by email to**: TBA
 
