@@ -5,7 +5,7 @@
 
 **Submit Proposals (single PDF File) by email to**: TBA
 
-# CCS2021 Call for Satellite Symposia and Online Satellite Symposa:
+# CCS2021 Call for Satellite Symposia and Online Satellite Symposia:
 
 Following the successful tradition of previous editions, CCS2021 will host a number of stimulating Satellite Symposia, to complement the main Conference. The satellite events are shorter (one-day or half-day) meetings with a focus on a specialized topic. All subjects that are of interest to the Complex Systems Society are welcome.
 
