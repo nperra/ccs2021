@@ -4,6 +4,7 @@
 - Notification to authors: **June 20, 2021**
 - Early Registration: **July 15, 2021**
 - Dates of the Conference:  **October 25-29, 2021**
+- Link to submit: TBA
  
 # Call for Abstracts
 
@@ -38,8 +39,6 @@ Easychair will be used for all procedures
 4. Log in to the conference as an author, and proceed with uploading your paper at the top left corner by clicking “New Submission”
 5. Follow the instructions easy chair provides you and fill in all the necessary details.
 6. Submit.
-
- Submission link: https://easychair.org/conferences/?conf=complex2021
 
 You can download the abstract template from here: http://ccs2018.web.auth.gr/sites/default/files/attached%20files/templateccs2018.docx
 
