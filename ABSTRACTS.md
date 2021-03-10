@@ -4,7 +4,7 @@
 - Notification to authors: **June 20, 2021**
 - Early Registration: **July 15, 2021**
 - Dates of the Conference:  **October 25-29, 2021**
-- (Template)[docs/templateccs2021.docx]
+- [Template](docs/templateccs2021.docx)
 - Link to submit: Coming Soon
  
 # Call for Abstracts
@@ -41,7 +41,7 @@ Easychair will be used for all procedures
 5. Follow the instructions easy chair provides you and fill in all the necessary details.
 6. Submit.
 
-You can download the abstract template from (here)[docs/templateccs2021.docx]
+You can download the abstract template from here: [Template](docs/templateccs2021.docx)
 
 We accept contributed talks (regular and lightning talks) and posters. Please indicate your preference for one of the following categories to present your research:
 
