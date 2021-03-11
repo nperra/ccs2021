@@ -9,7 +9,7 @@
 
 Following the successful tradition of previous editions, CCS2021 will host a number of stimulating Satellite Symposia, to complement the main Conference. The satellite events are short (one-day or half-day) meetings with a focus on a specialized topic. All subjects that are of interest to the Complex Systems Society are welcome.
 
-**This year, we also welcome the organization of Online Satellite Symposia.** Note that we expect Satellites to be either fully on-site or fully on-line. Any hybrid organization will need to be handled by the satellite organizers.
+**This year, we also welcome the organization of Online Satellite Symposia.** 
 
 ## How to Submit Proposals:
 We invite you to submit a proposal for a satellite symposium including Title, Topic (brief summary of one to two pages) and Format (number of speakers, invited vs. contributed, number of participants, length, preliminary program), and a preliminary list of speakers (also indicating whether they have been contacted and/or whether they have accepted). The proposal should also mention if the Satellite is planned as an online or on-site event.
@@ -29,3 +29,4 @@ Please make sure to mention if the proposed satellite is part of the disseminati
 - Selection of Satellite Meeting Proposals will be performed by the Satellite Committee of CCS2021. In order to optimize the offer of Satellite Symposia in terms of scientific topics, visibility and interactions, the Satellite Committee will reserve the option to propose the merging of selected proposals focusing on similar topics.
 - A rule of no-repetition of the same talk across different satellites and main conference will be enforced.
 - One free registration will be awarded to each satellite meeting. The satellite organizers can use it in any way they prefer (to use it for themselves, or award it to an invited speaker).
+- The main conference won't make available the necessary equipment for hybrid Satellite. We expect Satellites to be either fully on-site or fully on-line. Any hybrid organization will need to be handled by the satellite organizers.
