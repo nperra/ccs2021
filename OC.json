@@ -71,10 +71,10 @@
     "category": "Poster Co-Chairs",
     "people": [
       {
-        "name": "TBA",
-        "affiliation": "-",
-        "pic": "",
-        "website": "",
+        "name": "Bertrand Jouve",
+        "affiliation": "CNRS, University of Toulouse 2, France",
+        "pic": "https://blogs.univ-tlse2.fr/jouve/files/2014/12/cropped-phot1.jpg",
+        "website": "https://blogs.univ-tlse2.fr/jouve/",
         "twitter": ""
       },
       {
@@ -96,10 +96,27 @@
         "twitter": "https://twitter.com/Yquetzal"
       },
       {
-        "name": "TBA",
-        "affiliation": "-",
+        "name": "David Chavalarias",
+        "affiliation": "ISC-PIF, CNRS, France",
         "pic": "",
-        "website": ""
+        "website": "https://iscpif.fr/chavalarias/"
+      },
+    {
+    "category": "Social Media Co-Chairs",
+    "people": [
+      {
+        "name": "Pablo Jensen",
+        "affiliation": "CNRS, ENS de Lyon, France",
+        "pic": "http://perso.ens-lyon.fr/pablo.jensen/index.png",
+        "website": "https://perso.ens-lyon.fr/pablo.jensen/",
+        "twitter": "https://twitter.com/pablojensenlyon"
+      },
+      {
+        "name": "Carlos Gershenson",
+        "affiliation": "UNA, Mexico",
+        "pic": "https://turing.iimas.unam.mx/~cgg/img/carlos-iimas.jpg",
+        "website": "https://turing.iimas.unam.mx/~cgg/",
+        "twitter": "https://twitter.com/cgershen"
       }
     ]
   }
