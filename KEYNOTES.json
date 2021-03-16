@@ -24,24 +24,31 @@
         "twitter": ""
       },
       {
-        "name": "TBA",
-        "affiliation": "-",
+        "name": "Irene Giardina",
+        "affiliation": "Sapienza University of Rome, Institute for Complex Systems, CNR, Italy",
         "pic": "",
-        "website": "",
+        "website": "http://chimera.roma1.infn.it/IRENE/",
         "twitter": ""
       },
       {
-        "name": "TBA",
-        "affiliation": "-",
+        "name": "Eric D. Kolaczyk",
+        "affiliation": "Boston University, USA ",
         "pic": "",
-        "website": "",
+        "website": "http://sites.bu.edu/kolaczyk/",
         "twitter": ""
       },
       {
-        "name": "TBA",
-        "affiliation": "-",
+        "name": "Daniela Paolotti",
+        "affiliation": "ISI Foundation, Italy",
         "pic": "",
-        "website": "",
+        "website": "https://danielapaolotti.squarespace.com",
+        "twitter": ""
+      },
+      {
+        "name": "Marcel Salathé",
+        "affiliation": "EPFL, Switzerland",
+        "pic": "",
+        "website": "https://www.epfl.ch/labs/salathelab/",
         "twitter": ""
       }
     ]
