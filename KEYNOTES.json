@@ -34,9 +34,10 @@
       {
         "name": "Eric D. Kolaczyk",
         "affiliation": "Boston University, USA ",
-        "pic": "",
+        "pic": "people-pics/kolaczyk.jpg",
         "website": "http://sites.bu.edu/kolaczyk/",
-        "twitter": ""
+        "twitter": "",
+        "BIO":"Eric Kolaczyk is a Professor of Statistics, in the Department of Mathematics and Statistics, a founding member of the Faculty of Computing and Data Sciences, and Director of the Hariri Institute for Computing at Boston University. <br><br>He is also affiliated with the Division of Systems Engineering, the Programs in Bioinformatics and in Computational Neuroscience, and the BU URBAN program.  <br><br> His research is focused at the point where statistical theory and methods support human endeavors enabled by computing and engineered systems, frequently from a network-based perspective of systems science. <br><br> He develops novel methodologies for design, representation, modeling, inference, prediction, and uncertainty quantification foundational to new paradigms for data measurement and analysis. <br><br> He has published nearly 100 articles, including several books on the topic of network analysis. As an associate editor, he has served on the boards of JASA and JRSS-B in statistics, IEEE IP and TNSE in engineering, and SIMODS in mathematics. <br><br> He formerly served as co-chair of the NAS Roundtable on Data Science Education. He is an elected fellow of the AAAS, ASA, and IMS, an elected senior member of the IEEE, and an elected member of the ISI."
       },
             {
         "name": "Susanna Manrubia",
@@ -44,7 +45,7 @@
         "pic": "people-pics/manrubia.jpg",
         "website": "https://auditore.cab.inta-csic.es/manrubia/home/",
         "twitter": "",
-              "BIO":"Susanna Manrubia studied physics at the Universitat de Barcelona, and received her doctoral degree in 1996. <br>She was a Humboldt fellow of the Max Planck Society at the Fritz-Haber-Institut in Berlin and a postdoctoral researcher at the MPI of Colloids and Interfaces in Golm. <br>After several years at the Center for Astrobiology in Madrid, she is since 2014 associate professor of Molecular Biology and Biotechnology at the National Centre for Biotechnology (CSIC, Madrid). <br>She focuses on developing theoretical and computational descriptions of biological phenomena, from the genome to large-scale evolution, and maintains close collaborations with experimentalists. Her interests include as well the emergence of cultural patterns and collective social behaviour. <br>She has published over 130 peer reviewed articles and three books, was Section Editor for BMC Evolutionary Biology and is current member of the Editorial Board of Virus Evolution."  
+              "BIO":"Susanna Manrubia studied physics at the Universitat de Barcelona, and received her doctoral degree in 1996. <br><br>She was a Humboldt fellow of the Max Planck Society at the Fritz-Haber-Institut in Berlin and a postdoctoral researcher at the MPI of Colloids and Interfaces in Golm. <br>After several years at the Center for Astrobiology in Madrid, she is since 2014 associate professor of Molecular Biology and Biotechnology at the National Centre for Biotechnology (CSIC, Madrid). <br><br>She focuses on developing theoretical and computational descriptions of biological phenomena, from the genome to large-scale evolution, and maintains close collaborations with experimentalists. <br><br> Her interests include as well the emergence of cultural patterns and collective social behaviour. <br><br>She has published over 130 peer reviewed articles and three books, was Section Editor for BMC Evolutionary Biology and is current member of the Editorial Board of Virus Evolution."  
       },
       {
         "name": "Daniela Paolotti",
@@ -59,7 +60,7 @@
         "pic": "people-pics/salathe.jpg",
         "website": "https://www.epfl.ch/labs/salathelab/",
         "twitter": "",
-        "BIO":"Marcel Salathé is a digital epidemiologist working at the interface of health and computer science. <br>He obtained his PhD at ETH Zurich and spent two years as a postdoc in Stanford before joining the faculty at Penn State University in 2010 at the Center for Infectious Disease Dynamics.<br> In 2014, he spent half a year at Stanford as visiting assistant professor. <br>In the summer of 2015, he became an Associate Professor at EPFL where he heads the Digital Epidemiology Lab at the Campus Biotech in Geneva. <br>In 2016, he founded the EPFL Extension School, whose mission is to provide high quality online education in digital technology, and where he is the Academic Director."
+        "BIO":"Marcel Salathé is a digital epidemiologist working at the interface of health and computer science. <br>He obtained his PhD at ETH Zurich and spent two years as a postdoc in Stanford before joining the faculty at Penn State University in 2010 at the Center for Infectious Disease Dynamics.<br> In 2014, he spent half a year at Stanford as visiting assistant professor. <br><br>In the summer of 2015, he became an Associate Professor at EPFL where he heads the Digital Epidemiology Lab at the Campus Biotech in Geneva. <br><br>In 2016, he founded the EPFL Extension School, whose mission is to provide high quality online education in digital technology, and where he is the Academic Director."
 
 
       }
