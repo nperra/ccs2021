@@ -55,9 +55,12 @@
       {
         "name": "Marcel Salathé",
         "affiliation": "EPFL, Switzerland",
-        "pic": "",
+        "pic": "people-pics/salathe.jpg",
         "website": "https://www.epfl.ch/labs/salathelab/",
-        "twitter": ""
+        "twitter": "",
+        "BIO":"Marcel Salathé is a digital epidemiologist working at the interface of health and computer science. <br>He obtained his PhD at ETH Zurich and spent two years as a postdoc in Stanford before joining the faculty at Penn State University in 2010 at the Center for Infectious Disease Dynamics.<br> In 2014, he spent half a year at Stanford as visiting assistant professor. <br>In the summer of 2015, he became an Associate Professor at EPFL where he heads the Digital Epidemiology Lab at the Campus Biotech in Geneva. <br>In 2016, he founded the EPFL Extension School, whose mission is to provide high quality online education in digital technology, and where he is the Academic Director."
+
+
       }
     ]
   }
