@@ -50,9 +50,10 @@
       {
         "name": "Daniela Paolotti",
         "affiliation": "ISI Foundation, Italy",
-        "pic": "",
+        "pic": "people-pics/paolotti.jpg",
         "website": "https://danielapaolotti.squarespace.com",
-        "twitter": ""
+        "twitter": "",
+        "BIO":"Dr. Daniela Paolotti (F) has a background in Physics (Bsc, MSc, Ph.D.). <br><br>She is a Senior Research Scientist at ISI Foundation in Turin, Italy. Her work has a strong interdisciplinary approach. For more than ten years, she has been working on applying tools from complex systems and networks science, applied mathematics, computer science, data science, behavioral sciences to study infectious disease spreading. <br><br>Since 2008, she has been developing and coordinating a Europe-wide network of Web-based platforms for participatory surveillance of Influenza-like Illness. <br><br>More recently, at ISI she has co-founded a research area devoted to themes related to Data Science and Social Impact."
       },
       {
         "name": "Marcel Salathé",
