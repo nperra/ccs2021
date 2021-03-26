@@ -25,6 +25,14 @@
         "BIO":"Iain Couzin is Director of the Max Planck Institute of Animal Behavior in Konstanz, Germany. <br><br>Previously he was an Assistant- and then Full-Professor in the Department of Ecology and Evolutionary Biology at Princeton University, and prior to that a Royal Society University Research Fellow in the Department of Zoology, University of Oxford, and a Junior Research Fellow in the Sciences at Balliol College, Oxford. <br><br>His work aims to reveal the fundamental principles that underlie evolved collective behavior, and consequently his research includes the study of a wide range of biological systems, from neural collectives to insect swarms, fish schools and primate groups. <br><br>In recognition of his research he has been recipient of the Searle Scholar Award in 2008, top 5 most cited papers of the decade in animal behavior research 1999-2010, the Mohammed Dahleh Award in 2009, Popular Science's Brilliant 10 Award in 2010, National Geographic Emerging Explorer Award in 2012, the Scientific Medal of the Zoological Society of London in 2013, Web of Science Global Highly Cited Researcher in 2018, 2019 and 2020, and the Lagrange Prize for his contributions to complexity science in 2019."
       },
       {
+        "name": "Henk Dijkstra",
+        "affiliation": "IMAU, Utrecht University",
+        "pic": "people-pics/dijkstra.jpg",
+        "website": "https://webspace.science.uu.nl/~dijks101/",
+        "twitter": "",
+        "BIO":"Henk A. Dijkstra is professor of Dynamical Oceanography at the Institute for Marine and Atmospheric research Utrecht and director of the Centre for Complex Systems Studies   within the Department of Physics of Utrecht University. He was trained as an applied mathematician and held positions at the University of Groningen,  Cornell University, and Colorado State University. His main research interests are on climate variability, in particular climate transitions and climate change with a focus on the role of the oceans.   Since 2002, he is a full member of the  Royal  Netherlands Academy of Arts and Sciences and since 2009 he is a Fellow of the Society for Industrial and Applied Mathematics. In 2005, he  received the Lewis Fry  Richardson medal from the European Geosciences Union."
+      },
+      {
         "name": "Irene Giardina",
         "affiliation": "Sapienza University of Rome, Institute for Complex Systems, CNR, Italy",
         "pic": "",
@@ -74,6 +82,14 @@
         "BIO":"Petra Vertes is an MQ fellow at the University of Cambridge. <br><br>She gained her MSci in theoretical physics and a PhD in artificial neural networks from the University of Cambridge. She then moved to the Brain Mapping Unit in the Department of Psychiatry for her postdoctoral work. <br><br>In 2014 she was awarded an MRC fellowship in bioinformatics, followed by an MQ fellowship in 2018. <br><br>Petra is also one of the co-founders and organisers of the Cambridge Networks Network (CNN) - a forum of over 450 academics across different disciplines who share an interest in network science (http://www.cnn.group.cam.ac.uk/)."
 
 
+      },
+      {
+        "name": "Thierry Walzer",
+        "affiliation": "Inserm, CIRI, Lyon",
+        "pic": "people-pics/walzer.jpg",
+        "website": "http://joriss.ens-lyon.fr/thierry-walzer-365408.kjsp?RH=JORISS-PROJECTS",
+        "twitter": "",
+        "BIO":""
       }
     ]
   }
