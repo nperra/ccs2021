@@ -12,9 +12,10 @@
       {
         "name": "Vittoria Colizza",
         "affiliation": "INSERM, Sorbonne Université, France",
-        "pic": "",
+        "pic": "people-pics/colizza.jpg",
         "website": "https://www.epicx-lab.com/vittoria-colizza.html",
-        "twitter": ""
+        "twitter": "",
+        "BIO":"Vittoria Colizza completed her undergraduate studies in Physics at the University of Rome Sapienza, Italy, in 2001 and received her PhD in Statistical and Biological Physics at the International School for Advanced Studies in Trieste, Italy, in 2004. She then spent 3 years at the Indiana University School of Informatics in Bloomington, IN, USA, first as a post-doc and then as a Visiting Assistant Professor. <br><br>In 2007 she joined the ISI Foundation in Turin, Italy, where she started a new lab after being awarded a Starting Independent Career Grant in Life Sciences by the European Research Council Ideas Program (more info on the EpiFor project webpage).<br><br> In 2011 Vittoria joined the INSERM (French National Institute for Health and Medical Research) in Paris where she leads the EPIcx lab within the Equipe 1 Surveillance and modeling of communicable diseases of the Pierre Louis Institute of Epidemiology and Public Health (IPLESP). <br><br>She works on the characterization and modeling of the spread of emerging infectious diseases, by integrating methods of complex systems with statistical physics approaches, computational sciences, geographic information systems, and mathematical epidemiology. <br><br>In 2017 she was promoted Research Director at INSERM. <br><br>Since 2020, she is also Visiting Professor at Tokyo Institute of Technology."
       },
       {
         "name": "Iain Couzin",
