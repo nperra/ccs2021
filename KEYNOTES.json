@@ -42,12 +42,28 @@
         "BIO":"Henk A. Dijkstra is professor of Dynamical Oceanography at the Institute for Marine and Atmospheric research Utrecht and director of the Centre for Complex Systems Studies within the Department of Physics of Utrecht University. <br><br>He was trained as an applied mathematician and held positions at the University of Groningen,  Cornell University, and Colorado State University. <br><br>His main research interests are on climate variability, in particular climate transitions and climate change with a focus on the role of the oceans.  <br><br> Since 2002, he is a full member of the  Royal  Netherlands Academy of Arts and Sciences and since 2009 he is a Fellow of the Society for Industrial and Applied Mathematics. <br><br>In 2005, he  received the Lewis Fry  Richardson medal from the European Geosciences Union."
       },
       {
+        "name": "Manuel Garcia-Herranz",
+        "affiliation": "UNICEF Office of Innovation",
+        "pic": "people-pics/garcia.jpg",
+        "website": "https://manuelherranz.com",
+        "twitter": "",
+        "BIO":"I am currently the chief scientist at UNICEF Office of Innovation (NY). Previously I’ve worked as assistant professor with the Department of Computer Science of the Universidad Autónoma de Madrid (Spain) from which I received a Ph.D. in CS in 2009.<br><br>I am deeply interested in human behavior and dynamics, particularly in the study of computational social networks, complex systems and behavioral dynamics and in how new types of data and analysis can be used for human development, to reach the hardest to reach and provide humanitarian awareness of places in which traditionally there is little or none."
+      },
+      {
         "name": "Irene Giardina",
         "affiliation": "Sapienza University of Rome, Institute for Complex Systems, CNR, Italy",
         "pic": "people-pics/giardina.jpg",
         "website": "http://chimera.roma1.infn.it/IRENE/",
         "twitter": "",
         "BIO":"Irene Giardina is Associate Professor of theoretical physics at the Department of Physics, Sapienza University of Rome. <br><br>She received her M.S. in 1994 from the University of Pavia and her Ph.D. in 1998 from the Sapienza University of Rome. After postdoctoral stays at the Department of Theoretical Physics, Oxford and at Institut de Physique Théorique, CEA Saclay, she moved to the Institute for Complex Systems, CNR in Rome. In 2013 she joined the faculty of the Department of Physics, Sapienza, where she currently coordinates the Master program in Biophysics.  <br><br>After working for several years on the statistical physics of glassy behavior, Dr Giardina's research focused on the physics of biological systems. In 2005 she founded with Andrea Cavagna the COBBS lab (Collective Behavior in Biological Systems), the first lab to collect 3D large-scale experimental data in the field on flocking and swarming behavior, and to build theory starting directly from the data. <br><br>In her research, she applies a statistical physics approach to understand how collective behavior emerges in animal groups and – more broadly – in biological systems. <br><br>In 2021 she was awarded, together with A. Cavagna, the Delbruck prize in Biological Physics of the American Physical Society."
+      },
+      {
+        "name": "Sonia Kéfi",
+        "affiliation": "CNRS, ISEM, Montpellier, France",
+        "pic": "people-pics/kefi.jpg",
+        "website": "http://sonia.kefi.fr",
+        "twitter": "https://twitter.com/sonia_kefi",
+        "BIO":"I am a researcher at the CNRS based in the BioDICée team at the Institut des Sciences de l'Evolution de Montpellier (ISEM), France.  <br><br>In an era of global change, my research aims at understanding how ecosystems persist and change under pressures from changing climate and land use. What makes ecosystems resilient to changes and what makes them fragile?<br><br>I combine mathematical modeling and data analysis to investigate the role of ecological interactions (in particular facilitation) in stabilizing and destabilizing ecosystems, but also to develop indicators of resilience that could warn us of approaching ecosystem shifts."
       },
       {
         "name": "Eric D. Kolaczyk",
@@ -64,6 +80,14 @@
         "website": "https://auditore.cab.inta-csic.es/manrubia/home/",
         "twitter": "",
               "BIO":"Susanna Manrubia studied physics at the Universitat de Barcelona, and received her doctoral degree in 1996. <br><br>She was a Humboldt fellow of the Max Planck Society at the Fritz-Haber-Institut in Berlin and a postdoctoral researcher at the MPI of Colloids and Interfaces in Golm. <br>After several years at the Center for Astrobiology in Madrid, she is since 2014 associate professor of Molecular Biology and Biotechnology at the National Centre for Biotechnology (CSIC, Madrid). <br><br>She focuses on developing theoretical and computational descriptions of biological phenomena, from the genome to large-scale evolution, and maintains close collaborations with experimentalists. <br><br> Her interests include as well the emergence of cultural patterns and collective social behaviour. <br><br>She has published over 130 peer reviewed articles and three books, was Section Editor for BMC Evolutionary Biology and is current member of the Editorial Board of Virus Evolution."  
+      },
+            {
+        "name": "Alessia Melegaro",
+        "affiliation": "Bocconi University, Italy",
+        "pic": "people-pics/melegaro.jpg",
+        "website": "http://didattica.unibocconi.eu/docenti/cv.php?rif=92665",
+        "twitter": "",
+              "BIO":""  
       },
       {
         "name": "Daniela Paolotti",
