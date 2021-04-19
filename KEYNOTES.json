@@ -13,9 +13,10 @@
       {
         "name": "Sundeep Chepuri",
         "affiliation": "Indian Institute of Science",
-        "pic": "",
+        "pic": "people-pics/chepuri.jpg",
         "website": "https://ece.iisc.ac.in/~spchepuri",
-        "twitter": ""
+        "twitter": "",
+        "BIO":"I received the M.Sc. degree (cum laude) in Electrical Engineering and the Ph.D. degree (cum laude) from TU Delft, in July 2011 and January 2016, respectively. <br><br>Currently, I am an Assistant Professor at the Electrical Communication Engineering department at IISc. I was an Associate Editor of the EURASIP Journal on Advances in Signal Processing (2016 - 2020). <br><br>I am an elected member of the IEEE SPS Society's Sensor Array and Multichannel Technical Committee (2021 - ) and EURASIP Signal Processing for Multisensor Systems’ Special Area Team (2019 - ).<br><br>My research interests include mathematical signal processing, statistical inference and learning, applied to communication systems, network sciences, and computational imaging. The main themes of my research are computational sensing, sparse sampling, signal processing and machine learning for communications, graph signal processing, and machine learning over graphs."
       },
       {
         "name": "Vittoria Colizza",
