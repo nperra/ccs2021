@@ -5,7 +5,7 @@
 - Early Registration: **July 15, 2021**
 - Dates of the Conference:  **October 25-29, 2021**
 - [Template](docs/templateccs2021.docx)
-- Link to submit: Coming Soon
+- Link to submit: https://easychair.org/cfp/CCS2021
  
 # Call for Abstracts
 
@@ -36,7 +36,7 @@ Easychair will be used for all procedures
 
 1. Log in to easychair.org using an existing account.
 2. If you do not have an account, you can easily sign up.
-3. Click on the submission link.
+3. Click on the submission link. (https://easychair.org/cfp/CCS2021)
 4. Log in to the conference as an author, and proceed with uploading your paper at the top left corner by clicking “New Submission”
 5. Follow the instructions easy chair provides you and fill in all the necessary details.
 6. Submit.
