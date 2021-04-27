@@ -74,6 +74,14 @@
         "twitter": "",
         "BIO":"Eric Kolaczyk is a Professor of Statistics, in the Department of Mathematics and Statistics, a founding member of the Faculty of Computing and Data Sciences, and Director of the Hariri Institute for Computing at Boston University. <br><br>He is also affiliated with the Division of Systems Engineering, the Programs in Bioinformatics and in Computational Neuroscience, and the BU URBAN program.  <br><br> His research is focused at the point where statistical theory and methods support human endeavors enabled by computing and engineered systems, frequently from a network-based perspective of systems science. <br><br> He develops novel methodologies for design, representation, modeling, inference, prediction, and uncertainty quantification foundational to new paradigms for data measurement and analysis. <br><br> He has published nearly 100 articles, including several books on the topic of network analysis. As an associate editor, he has served on the boards of JASA and JRSS-B in statistics, IEEE IP and TNSE in engineering, and SIMODS in mathematics. <br><br> He formerly served as co-chair of the NAS Roundtable on Data Science Education. He is an elected fellow of the AAAS, ASA, and IMS, an elected senior member of the IEEE, and an elected member of the ISI."
       },
+      {
+        "name": "László Lovász",
+        "affiliation": "Eötvös Loránd University, Hungary ",
+        "pic": "people-pics/lovasz.jpg",
+        "website": "https://web.cs.elte.hu/~lovasz/",
+        "twitter": "",
+        "BIO":"László Lovász is a Hungarian-American mathematician and professor emeritus at Eötvös Loránd University, best known for his work in combinatorics, for which he was awarded the 2021 Abel Prize jointly with Avi Wigderson. He was the president of the International Mathematical Union from 2007 to 2010 and the president of the Hungarian Academy of Sciences from 2014 to 2020. <br><br>In graph theory, Lovász's notable contributions include the proofs of Kneser's conjecture and the Lovász local lemma, as well as the formulation of the Erdős–Faber–Lovász conjecture. <br><br>He is also one of the eponymous authors of the LLL lattice reduction algorithm."
+      },
             {
         "name": "Susanna Manrubia",
         "affiliation": "Spanish National Centre for Biotechnology (CSIC), Spain",
