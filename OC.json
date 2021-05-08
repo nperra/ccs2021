@@ -85,6 +85,24 @@
       }
     ]
   },
+  {
+    "category": "Sponsor Co-Chairs",
+    "people": [
+      {
+        "name": "Hocine Cherifi",
+        "affiliation": "University of Burgundy, France",
+        "pic": "people-pics/cherifi.jpg",
+        "website": "https://lib.u-bourgogne.fr/equipe/cherifi-hocine",
+        "twitter": ""
+      },
+      {
+        "name": "Guillaume Deffuant",
+        "affiliation": "INRAE, France",
+        "pic": "people-pics/deffuant.jpg",
+        "website": "https://lisc.inrae.fr/guillaume-deffuant/"
+      }
+    ]
+  },
     {
     "category": "Web, Design and Hybrid Co-Chairs",
     "people": [
