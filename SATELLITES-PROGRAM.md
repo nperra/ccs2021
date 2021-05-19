@@ -1,15 +1,11 @@
 # LIST OF SATELLITES
 
 ## Urban Complex Systems
-**Organisers**: Hocine Cherifi, Roberto Interdonato, Matteo Zignani, Sabrina Gaito,  Hamamache Kheddouci
-
-**Keywords**: Cities, Urban
-
-**Mode**: Onsite
-
-**Date**: 
-
-**Website**: 
+**Organisers**: Hocine Cherifi, Roberto Interdonato, Matteo Zignani, Sabrina Gaito,  Hamamache Kheddouci.  
+**Keywords**: Cities, Urban  
+**Mode**: Onsite.  
+**Date**:  
+**Website**:  
 
 ---
 
