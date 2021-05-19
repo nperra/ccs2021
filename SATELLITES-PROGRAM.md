@@ -11,6 +11,8 @@
 
 **Website**: 
 
+---
+
 ## Modes of thinking (in) complexity: Key challenges for theory, research and practice
 **Organisers**: Ana Teixeira de Melo, Leo Caves, Carlos Gershenson, Charbel El-Hani
 
