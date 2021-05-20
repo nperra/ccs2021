@@ -15,5 +15,5 @@ The Registration fees will be:
 |Academics (Faculty, Researchers)		|				480 €	| 	240 €	|	320 €
 |Non Academics						|			550 € 	|	275 €	|	360 €							
 
-Early Bird is for Registration up to July 1st, 2021.
+Early Bird is for Registration up to July 5, 2021.
 Standard Registration Fees after this date will be 40 € more.
