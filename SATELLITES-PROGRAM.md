@@ -1,6 +1,8 @@
 # List of Satellites
 
 [Urban Complex Systems](#urban-complex-systems)  
+[RrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks](#urbansys2021)  
+[Econophysics Colloquium 2021](#econophysics-colloquium-2021)  
 [Modes of thinking (in) complexity: Key challenges for theory, research and practice](#modes-of)
 
 # In details
@@ -9,8 +11,24 @@
 **Organisers**: Hocine Cherifi, Roberto Interdonato, Matteo Zignani, Sabrina Gaito,  Hamamache Kheddouci.  
 **Keywords**: Cities, Urban  
 **Mode**: Onsite.  
-**Date**: To appear. 
+**Date**: Coming Soon. 
 **Website**:  Coming soon
+
+---
+## UrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks <a name="urbansys2021"></a>
+**Organisers**: Elsa Arcaute, Aleix Bassolas, Riccardo Gallotti, Marta Gonzalez, Mattia Mazzoli, José J. Ramasco. 
+**Keywords**: Urban systems.   
+**Mode**: Onsite but open to hybrid.  
+**Date**: Coming Soon.  
+**Website**:  https://urbansys2021.ifisc.uib-csic.es. 
+
+---
+## Econophysics Colloquium 2021
+**Organisers**: Panos Argyrakis, Irena Vodenska,Tiziana Di Matteo, Lykourgos Magafas. 
+**Keywords**: Econophysics.   
+**Mode**: -.  
+**Date**: Coming Soon.  
+**Website**: Coming Soon. 
 
 ---
 
