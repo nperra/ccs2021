@@ -3,8 +3,8 @@
 [Urban Complex Systems](#urbancomplex)  
 [RrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks](#urbansys2021)  
 [Econophysics Colloquium 2021](#econophysics-colloquium-2021)  
-[Cliometrics and complexity](#cliometrics-and-complexity)  
-[Complex Systems for the Most Vulnerable](#complex-systems-for-the-most-vulnerable)
+[Cliometrics and complexity](#cliometrics-and-complexity)   
+[Complex Systems for the Most Vulnerable](#complex-systems-for-the-most-vulnerable)  
 [Modes of thinking (in) complexity: Key challenges for theory, research and practice](#modes-of)
 
 # In details
@@ -28,7 +28,7 @@
 ## Econophysics Colloquium 2021
 **Organisers**: Panos Argyrakis, Irena Vodenska,Tiziana Di Matteo, Lykourgos Magafas. 
 **Keywords**: Econophysics.   
-**Mode**: -.  
+**Mode**: Coming Soon.  
 **Date**: Coming Soon.  
 **Website**: Coming Soon. 
 
@@ -41,12 +41,14 @@
 **Website**: Coming Soon. 
  
 ---
+ 
 ## Complex Systems for the Most Vulnerable
 **Organisers**: Elisa Omodei, Daniela Paolotti, Michele Tizzoni   
 **Keywords**: Data for good.   
 **Mode**: Onsite but open to hybrid.  
 **Date**: Coming Soon.  
 **Website**: Coming Soon. 
+ 
 ---
 
 ## Modes of thinking (in) complexity: Key challenges for theory, research and practice<a name="modes-of"></a>
