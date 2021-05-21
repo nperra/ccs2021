@@ -2,16 +2,16 @@
 
 [Urban Complex Systems](#urbancomplex)  
 [UrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks](#urbansys2021)  
-[Econophysics Colloquium 2021](#econophysics-colloquium-2021)  
-[Cliometrics and complexity](#cliometrics-and-complexity)   
-[Complex Systems for the Most Vulnerable](#complex-systems-for-the-most-vulnerable)  
+[Econophysics Colloquium 2021](#econophysics)  
+[Cliometrics and complexity](#cliometrics)   
+[Complex Systems for the Most Vulnerable](#vulnerable)  
 [Modes of thinking (in) complexity: Key challenges for theory, research and practice](#modes-of)
 
 # In details
 
-<a name="urbancomplex">
+
  
-## Urban Complex Systems. 
+## Urban Complex Systems. <a name="urbancomplex">
 **Organisers**: Hocine Cherifi, Roberto Interdonato, Matteo Zignani, Sabrina Gaito,  Hamamache Kheddouci.  
 **Keywords**: Cities, Urban  
 **Mode**: Onsite.  
@@ -19,8 +19,8 @@
 **Website**:  Coming soon
 
 ---
-<a name="urbansys2021"></a>
-## UrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks 
+
+## UrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks <a name="urbansys2021"></a>
 **Organisers**: Elsa Arcaute, Aleix Bassolas, Riccardo Gallotti, Marta Gonzalez, Mattia Mazzoli, José J. Ramasco. 
 **Keywords**: Urban systems.   
 **Mode**: Onsite but open to hybrid.  
@@ -28,7 +28,7 @@
 **Website**:  https://urbansys2021.ifisc.uib-csic.es. 
 
 ---
-## Econophysics Colloquium 2021
+## Econophysics Colloquium 2021 <a name="econophysics"></a>
 **Organisers**: Panos Argyrakis, Irena Vodenska,Tiziana Di Matteo, Lykourgos Magafas. 
 **Keywords**: Econophysics.   
 **Mode**: Coming Soon.  
@@ -36,7 +36,7 @@
 **Website**: Coming Soon. 
 
 ---
-## Cliometrics and complexity
+## Cliometrics and complexity <a name="cliometrics"></a>
 **Organisers**: Antoine Parent, Cécile Bastidon, Pierre Borgnat, Pablo Jensen, Patrice Abry 
 **Keywords**: financial data.   
 **Mode**: Onsite.  
@@ -45,7 +45,7 @@
  
 ---
  
-## Complex Systems for the Most Vulnerable
+## Complex Systems for the Most Vulnerable <a name="vulnerable"></a>
 **Organisers**: Elisa Omodei, Daniela Paolotti, Michele Tizzoni   
 **Keywords**: Data for good.   
 **Mode**: Onsite but open to hybrid.  
