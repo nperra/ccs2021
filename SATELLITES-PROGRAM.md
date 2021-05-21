@@ -4,6 +4,7 @@
 [RrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks](#urbansys2021)  
 [Econophysics Colloquium 2021](#econophysics-colloquium-2021)  
 [Cliometrics and complexity](#cliometrics-and-complexity)  
+[Complex Systems for the Most Vulnerable](#complex-systems-for-the-most-vulnerable)
 [Modes of thinking (in) complexity: Key challenges for theory, research and practice](#modes-of)
 
 # In details
