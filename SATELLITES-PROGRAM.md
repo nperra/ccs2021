@@ -1,10 +1,17 @@
 # List of Satellites
 
+## Onsite
 [Urban Complex Systems](#urbancomplex)  
 [UrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks](#urbansys2021)  
+
+
 [Econophysics Colloquium 2021](#econophysics)  
-[Cliometrics and complexity](#cliometrics)   
+[Cliometrics and complexity](#cliometrics)
+
+## Onsite but open to hybrid
 [Complex Systems for the Most Vulnerable](#vulnerable)  
+
+## Online
 [Modes of thinking (in) complexity: Key challenges for theory, research and practice](#modes-of)
 
 # In details
