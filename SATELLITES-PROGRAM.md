@@ -7,7 +7,7 @@
 
 # In details
 
-## Urban Complex Systems<a name="urbancomplex">
+## Urban Complex Systems <a name="urbancomplex">
 **Organisers**: Hocine Cherifi, Roberto Interdonato, Matteo Zignani, Sabrina Gaito,  Hamamache Kheddouci.  
 **Keywords**: Cities, Urban  
 **Mode**: Onsite.  
@@ -30,6 +30,14 @@
 **Date**: Coming Soon.  
 **Website**: Coming Soon. 
 
+---
+## Cliometrics and complexity
+**Organisers**: Antoine Parent, Cécile Bastidon, Pierre Borgnat, Pablo Jensen, Patrice Abry 
+**Keywords**: financial data.   
+**Mode**: Onsite.  
+**Date**: Coming Soon.  
+**Website**: Coming Soon. 
+  
 ---
 
 ## Modes of thinking (in) complexity: Key challenges for theory, research and practice<a name="modes-of"></a>
