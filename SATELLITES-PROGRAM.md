@@ -38,7 +38,14 @@
 **Mode**: Onsite.  
 **Date**: Coming Soon.  
 **Website**: Coming Soon. 
-  
+ 
+---
+## Complex Systems for the Most Vulnerable
+**Organisers**: Elisa Omodei, Daniela Paolotti, Michele Tizzoni   
+**Keywords**: Data for good.   
+**Mode**: Onsite but open to hybrid.  
+**Date**: Coming Soon.  
+**Website**: Coming Soon. 
 ---
 
 ## Modes of thinking (in) complexity: Key challenges for theory, research and practice<a name="modes-of"></a>
