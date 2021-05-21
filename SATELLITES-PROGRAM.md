@@ -3,8 +3,6 @@
 ## Onsite
 [Urban Complex Systems](#urbancomplex)  
 [UrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks](#urbansys2021)  
-
-
 [Econophysics Colloquium 2021](#econophysics)  
 [Cliometrics and complexity](#cliometrics)
 
