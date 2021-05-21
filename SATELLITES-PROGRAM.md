@@ -8,8 +8,8 @@
 [Modes of thinking (in) complexity: Key challenges for theory, research and practice](#modes-of)
 
 # In details
-
-## Urban Complex Systems <a name="urbancomplex">
+<a name="urbancomplex">
+## Urban Complex Systems 
 **Organisers**: Hocine Cherifi, Roberto Interdonato, Matteo Zignani, Sabrina Gaito,  Hamamache Kheddouci.  
 **Keywords**: Cities, Urban  
 **Mode**: Onsite.  
@@ -17,7 +17,8 @@
 **Website**:  Coming soon
 
 ---
-## UrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks <a name="urbansys2021"></a>
+<a name="urbansys2021"></a>
+## UrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks 
 **Organisers**: Elsa Arcaute, Aleix Bassolas, Riccardo Gallotti, Marta Gonzalez, Mattia Mazzoli, José J. Ramasco. 
 **Keywords**: Urban systems.   
 **Mode**: Onsite but open to hybrid.  
