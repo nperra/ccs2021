@@ -8,7 +8,7 @@ This hybrid version is intended to help people to attend the conference, whateve
 
 The Registration fees will be:
 
-| | Early Bird On SIte  | Early Bird Single day (satellites only) | Early BIrd Online only	|
+| | Early Bird On Site  | Early Bird Single day (satellites only) | Early Bird Online only	|
 | ---: | :----: | :------: | :----:	
 |Young researchers (PhD candidates, Master students)|		330 €	| 	170 €| 	200 €
 |Post-doctoral fellows				|				400 €	|	240 €	|	290 €
