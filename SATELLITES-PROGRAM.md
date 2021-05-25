@@ -5,12 +5,28 @@
 [UrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks](#urbansys2021)  
 [Econophysics Colloquium 2021](#econophysics)  
 [Cliometrics and complexity](#cliometrics)
-
-## Onsite but open to hybrid
 [Complex Systems for the Most Vulnerable](#vulnerable)  
+[Mobility and migration research in the digital era](#mobilitymigration)  
+[AMETHYST: gAME THeorY in complex SysTems](#amethyst)  
+[CSS Chapters Workshop (CSSC 2021)](#csschapters)  
+[Brain Connectivity Networks: Quality and Reproducibility](#brainconnectivity)  
+[Criticality on networks and socio-economic systems](#criticality)  
+
+## Hybrid
+[Robustness, Adaptability and Critical Transitions in Living Systems](#robustness)  
+[Computational Social Science](#computationalss)  
+[Complex Systems and Education: From Theory to Research to Practice](#cceducation)  
+[Data-based diagnosis of networked dynamical systems](#dbdiagnosis)  
+[Machine learning Perspectives for Complex Networks: Part II](#mlperspectives)  
 
 ## Online
+[Complex Adaptive System Approaches in Management and Organization Science](#complexadaptive)  
+[CompCog: Complexity and Cognition](#compcog)  
+[Complex-Space: Analysis and Modelling of Spatial Complex Systems](#complexspace)  
+[Multiscale & Integrative complex networks: experiments & theories](#multiscaleintegrative)  
 [Modes of thinking (in) complexity: Key challenges for theory, research and practice](#modes-of)
+[Artificial Evolution workshop](#artificialevolution)  
+[Vth COMPLEX SYSTEMS APPLICATIONS: DATA AND MODELING SATELLITE SESSION AT CONFERENCE ON COMPLEX SYSTEMS 2021](#artificialevolution)  
 
 # In details
 
