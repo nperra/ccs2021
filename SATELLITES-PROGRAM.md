@@ -26,7 +26,7 @@
 [Multiscale & Integrative complex networks: experiments & theories](#multiscaleintegrative)  
 [Modes of thinking (in) complexity: Key challenges for theory, research and practice](#modes-of)
 [Artificial Evolution workshop](#artificialevolution)  
-[Vth COMPLEX SYSTEMS APPLICATIONS: DATA AND MODELING SATELLITE SESSION AT CONFERENCE ON COMPLEX SYSTEMS 2021](#artificialevolution)  
+[Vth Complex systems applications: data and modeling	](#artificialevolution)  
 
 # In details
 
@@ -207,9 +207,9 @@
   
 ---
 
-## Vth COMPLEX SYSTEMS APPLICATIONS: DATA AND MODELING SATELLITE SESSION AT CONFERENCE ON COMPLEX SYSTEMS 2021<a name="artificialevolution"></a>
+## Vth Complex systems applications: data and modeling	<a name="artificialevolution"></a>
 **Organisers**: Alfredo J. Morales, Rosa M. Benito.  
 **Keywords**: Artificial evolution, Genetic algorithms.  
 **Mode**: Online.  
 **Date**: Friday before the conference. 
-**Website**: Coming Soon. 
+**Website**: https://sites.google.com/view/complex-systems-applications/. 
