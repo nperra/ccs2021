@@ -52,7 +52,7 @@
 ## Econophysics Colloquium 2021 <a name="econophysics"></a>
 **Organisers**: Panos Argyrakis, Irena Vodenska,Tiziana Di Matteo, Lykourgos Magafas. 
 **Keywords**: Econophysics.   
-**Mode**: Onsite but open to hybrid. 
+**Mode**: Onsite but open to hybrid.  
 **Date**: Coming Soon.  
 **Website**: Coming Soon. 
 
