@@ -52,7 +52,7 @@
 ## Econophysics Colloquium 2021 <a name="econophysics"></a>
 **Organisers**: Panos Argyrakis, Irena Vodenska,Tiziana Di Matteo, Lykourgos Magafas. 
 **Keywords**: Econophysics.   
-**Mode**: Coming Soon.  
+**Mode**: Onsite but open to hybrid. 
 **Date**: Coming Soon.  
 **Website**: Coming Soon. 
 
@@ -115,12 +115,12 @@
 **Website**: Coming Soon. 
 
 --- 
-## Robustness, Adaptability and Critical Transitions in Living Systems<a name="robustness"></a>
+##  ReACT: Robustness, Adaptability and Critical Transitions in Living Systems<a name="robustness"></a>
 **Organisers**: Samir Suweis, Jacopo Grilli, Sandro Azaele, Giorgio Nicoletti.  
 **Keywords**: Living systems.   
 **Mode**: hybrid.  
 **Date**: Coming Soon.  
-**Website**: Coming Soon. 
+**Website**:  https://liphlab.github.io/REACT2021
 
 --- 
 ## Computational Social Science<a name="computationalss"></a>
