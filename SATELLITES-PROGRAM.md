@@ -190,7 +190,7 @@
 
 ## Modes of thinking (in) complexity: Key challenges for theory, research and practice<a name="modes-of"></a>
 **Organisers**: Ana Teixeira de Melo, Leo Caves, Carlos Gershenson, Charbel El-Hani.  
-**Keywords**: Philosophy of complexity.  
+**Keywords**: Co-constructive dialogues; Relational thinking method; World-café method; Philosophy of Complexity; Applied complex(ity) thinking.  
 **Mode**: Online.  
 **Date**: Friday before the conference.  
 **Website**: https://www.complexthinking.org/satellite-meeting-at-ccs2021-modes-of-thinking-in-complexity.  
