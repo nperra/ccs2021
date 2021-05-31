@@ -24,7 +24,7 @@
 [CompCog: Complexity and Cognition](#compcog)  
 [Complex-Space: Analysis and Modelling of Spatial Complex Systems](#complexspace)  
 [Multiscale & Integrative complex networks: experiments & theories](#multiscaleintegrative)  
-[Modes of thinking (in) complexity: Key challenges for theory, research and practice](#modes-of)
+[Modes of thinking (in) complexity: Key challenges for theory, research and practice](#modes-of)  
 [Vth Complex systems applications: data and modeling	](#csa)  
 
 # In details
