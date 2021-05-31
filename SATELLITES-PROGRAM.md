@@ -25,8 +25,7 @@
 [Complex-Space: Analysis and Modelling of Spatial Complex Systems](#complexspace)  
 [Multiscale & Integrative complex networks: experiments & theories](#multiscaleintegrative)  
 [Modes of thinking (in) complexity: Key challenges for theory, research and practice](#modes-of)
-[Artificial Evolution workshop](#artificialevolution)  
-[Vth Complex systems applications: data and modeling	](#artificialevolution)  
+[Vth Complex systems applications: data and modeling	](#csa)  
 
 # In details
 
@@ -197,17 +196,7 @@
     
 ---
 
-## Artificial Evolution workshop<a name="artificialevolution"></a>
-**Organisers**: Pierrick Legrand.  
-**Keywords**: Artificial evolution, Genetic algorithms.  
-**Mode**: Online.  
-**Date**: Coming Soon. 
-**Website**: Coming Soon. 
-
-  
----
-
-## Vth Complex systems applications: data and modeling	<a name="artificialevolution"></a>
+## Vth Complex systems applications: data and modeling	<a name="csa"></a>
 **Organisers**: Alfredo J. Morales, Rosa M. Benito.  
 **Keywords**: Artificial evolution, Genetic algorithms.  
 **Mode**: Online.  
