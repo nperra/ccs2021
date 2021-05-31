@@ -37,7 +37,7 @@
 **Keywords**: Cities, Urban  
 **Mode**: Onsite.  
 **Date**: Coming Soon. 
-**Website**:  Coming soon
+**Website**:  https://urbcompsys.github.io/
 
 ---
 
