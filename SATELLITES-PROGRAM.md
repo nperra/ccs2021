@@ -103,9 +103,9 @@
 ## CSS Chapters Workshop (CSSC 2021)<a name="csschapters"></a>
 **Organisers**: Hocine Cherifi, Bertrand Jouve.  
 **Keywords**: Chapters workshop.   
-**Mode**: Onsite.  
+**Mode**: Hybrid.  
 **Date**: Coming Soon.  
-**Website**: Coming Soon. 
+**Website**: https://compsysfrance.wixsite.com/chapters  
 
 --- 
 ##  ReACT: Robustness, Adaptability and Critical Transitions in Living Systems<a name="robustness"></a>
