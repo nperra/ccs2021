@@ -98,8 +98,8 @@
 **Mode**: Onsite but open to hybrid.  
 **Date**: Coming Soon.  
 **Website**: Coming Soon. 
---- 
 
+--- 
 ## CSS Chapters Workshop (CSSC 2021)<a name="csschapters"></a>
 **Organisers**: Hocine Cherifi, Bertrand Jouve.  
 **Keywords**: Chapters workshop.   
