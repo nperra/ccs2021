@@ -1,23 +1,23 @@
 # List of Satellites
 
 ## Onsite
-[Urban Complex Systems](#urbancomplex)  
 [UrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks](#urbansys2021)  
 [Econophysics Colloquium 2021](#econophysics)  
 [Cliometrics and complexity](#cliometrics)
 [Complex Systems for the Most Vulnerable](#vulnerable)  
 [Mobility and migration research in the digital era](#mobilitymigration)  
 [AMETHYST: gAME THeorY in complex SysTems](#amethyst)  
-[CSS Chapters Workshop (CSSC 2021)](#csschapters)  
 [Brain Connectivity Networks: Quality and Reproducibility](#brainconnectivity)  
 [Criticality on networks and socio-economic systems](#criticality)  
 
 ## Hybrid
+[CSS Chapters Workshop (CSSC 2021)](#csschapters)  
 [Robustness, Adaptability and Critical Transitions in Living Systems](#robustness)  
 [Computational Social Science](#computationalss)  
 [Complex Systems and Education: From Theory to Research to Practice](#cceducation)  
 [Data-based diagnosis of networked dynamical systems](#dbdiagnosis)  
-[Machine learning Perspectives for Complex Networks: Part II](#mlperspectives)  
+[Machine learning Perspectives for Complex Networks: Part II](#mlperspectives)
+[Urban Complex Systems](#urbancomplex)  
 
 ## Online
 [Complex Adaptive System Approaches in Management and Organization Science](#complexadaptive)  
@@ -31,14 +31,7 @@
 
 
  
-## Urban Complex Systems. <a name="urbancomplex">
-**Organisers**: Hocine Cherifi, Roberto Interdonato, Matteo Zignani, Sabrina Gaito,  Hamamache Kheddouci.  
-**Keywords**: Cities, Urban  
-**Mode**: Onsite.  
-**Date**: Coming Soon. 
-**Website**:  https://urbcompsys.github.io/
 
----
 
 ## UrbanSys2021: Transport, Smart Cities, Complexity and Urban Networks <a name="urbansys2021"></a>
 **Organisers**: Elsa Arcaute, Aleix Bassolas, Riccardo Gallotti, Marta Gonzalez, Mattia Mazzoli, José J. Ramasco. 
@@ -89,13 +82,6 @@
 **Date**: Coming Soon.  
 **Website**: Coming Soon. 
  
---- 
-## CSS Chapters Workshop (CSSC 2021)<a name="csschapters"></a>
-**Organisers**: Hocine Cherifi, Bertrand Jouve.  
-**Keywords**: Chapters workshop.   
-**Mode**: Onsite.  
-**Date**: Coming Soon.  
-**Website**: Coming Soon. 
 
 --- 
 ## Brain Connectivity Networks: Quality and Reproducibility<a name="brainconnectivity"></a>
@@ -110,6 +96,14 @@
 **Organisers**: Yérali Gandica and Petter Holme.  
 **Keywords**: Criticality.   
 **Mode**: Onsite but open to hybrid.  
+**Date**: Coming Soon.  
+**Website**: Coming Soon. 
+--- 
+
+## CSS Chapters Workshop (CSSC 2021)<a name="csschapters"></a>
+**Organisers**: Hocine Cherifi, Bertrand Jouve.  
+**Keywords**: Chapters workshop.   
+**Mode**: Onsite.  
 **Date**: Coming Soon.  
 **Website**: Coming Soon. 
 
@@ -154,6 +148,14 @@
 **Website**: https://sites.google.com/view/ccs2021-ml-network. 
 
 --- 
+## Urban Complex Systems. <a name="urbancomplex">
+**Organisers**: Hocine Cherifi, Roberto Interdonato, Matteo Zignani, Sabrina Gaito,  Hamamache Kheddouci.  
+**Keywords**: Cities, Urban  
+**Mode**: Onsite.  
+**Date**: Coming Soon. 
+**Website**:  https://urbcompsys.github.io/
+
+---
 ## Complex Adaptive System Approaches in Management and Organization Science <a name="complexadaptive"></a>
 **Organisers**: Stephan Leitner, Friederike Wall, llaria Giannoccaro .  
 **Keywords**: Management and Organization Science .   
