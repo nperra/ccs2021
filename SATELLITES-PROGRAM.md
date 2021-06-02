@@ -151,7 +151,7 @@
 ## Urban Complex Systems. <a name="urbancomplex">
 **Organisers**: Hocine Cherifi, Roberto Interdonato, Matteo Zignani, Sabrina Gaito,  Hamamache Kheddouci.  
 **Keywords**: Cities, Urban  
-**Mode**: Onsite.  
+**Mode**: hybrid.  
 **Date**: Coming Soon. 
 **Website**:  https://urbcompsys.github.io/
 
