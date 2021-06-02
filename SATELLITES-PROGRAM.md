@@ -46,7 +46,7 @@
 **Keywords**: Econophysics.   
 **Mode**: Onsite but open to hybrid.  
 **Date**: Coming Soon.  
-**Website**: Coming Soon. 
+**Website**: https://econophysics.ihu.gr/ec2021/
 
 ---
 ## Cliometrics and complexity <a name="cliometrics"></a>
@@ -72,7 +72,7 @@
 **Keywords**: Mobility.   
 **Mode**: Onsite but open to hybrid.  
 **Date**: Coming Soon.  
-**Website**: Coming Soon. 
+**Website**: https://sites.google.com/view/mimode2021/
 
 --- 
 ## AMETHYST: gAME THeorY in complex SysTems <a name="amethyst"></a>
@@ -80,7 +80,7 @@
 **Keywords**: Game theory.   
 **Mode**: Onsite but open to hybrid.  
 **Date**: Coming Soon.  
-**Website**: Coming Soon. 
+**Website**: https://amethyst2021.weebly.com
  
 
 --- 
