@@ -89,7 +89,7 @@
 **Keywords**: Brain.   
 **Mode**: Onsite but open to hybrid.  
 **Date**: Coming Soon.  
-**Website**: Coming Soon. 
+**Website**: https://q-func.github.io/workshopCCS21-brain-connectivity/ 
 
 --- 
 ## Criticality on networks and socio-economic systems<a name="criticality"></a>
